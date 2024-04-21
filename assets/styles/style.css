@@ -66,14 +66,14 @@ section {
     text-shadow: 1px 1px 0px black;
 }
 #flor {
-    background-image: url(../imagens/background001.jpg);
+    background-image: url(../images/background001.jpg);
     background-position: right center;
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
 }
 #livro {
-    background-image: url(../imagens/background002.jpg);
+    background-image: url(../images/background002.jpg);
     background-position: center center;
     background-attachment: fixed;
     background-repeat: no-repeat;
